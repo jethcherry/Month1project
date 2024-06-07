@@ -1,0 +1,2525 @@
+.child-hotel[data-hotelid="6200"] .resv-wrap button{
+    background:#990000;
+    font-size:clamp(15px,1.172vw,18px);
+    font-weight: Bold;
+    text-transform:capitalize;
+}
+.child-hotel[data-hotelid="6200"] .resv-wrap button:hover{
+    background:#990000;
+    font-size: 18px;
+    font-weight: Bold;
+}
+
+body .content_wrapper .no-gutter h3{
+    Size: 24px !important;;
+    font-weight: Semi-Bold !important;;
+    font-family: Playfair Display !important;
+}
+body .content_wrapper .no-gutter h4{
+    color:#666666 !important;
+    font-family: Playfair Display !important;;
+}
+body .content_wrapper .no-gutter h5{
+    color:#777777 !important;
+    font-family: Playfair Display !important;;
+}
+body .content_wrapper .no-gutter h6{
+    color:#888888 !important;
+   font-family: Playfair Display !important;;
+}
+.content_wrapper .no-gutter .txt-wdgt-btn-wrapper .btn,
+.content_wrapper .no-gutter .txt-wdgt-btn-wrapper .btn{
+    font-family: 'Raleway', sans-serif ;
+}
+body[data-hotelid="6793"] .content_wrapper .no-gutter p,
+body[data-hotelid="6794"] .content_wrapper .no-gutter p,
+body[data-hotelid="6793"] .content_wrapper .no-gutter div,
+body[data-hotelid="6794"] .content_wrapper .no-gutter div{
+  color: black;
+}
+body[data-hotelid="6793"] .content_wrapper .no-gutter h1,
+body[data-hotelid="6794"] .content_wrapper .no-gutter h1{
+  color: #333333;
+}
+body[data-hotelid="6793"] .content_wrapper .no-gutter h2,
+body[data-hotelid="6794"] .content_wrapper .no-gutter h2{
+  color: #444444;
+}
+body[data-hotelid="6793"] .content_wrapper .no-gutter h3,
+body[data-hotelid="6794"] .content_wrapper .no-gutter h3{
+  color: #555555;
+}
+
+/*nav.navbar.navbar-top {*/
+  
+/*    background: linear-gradient(rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.7) 25%, rgba(255, 255, 255, 0.4) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 100%);*/
+/*}*/
+header .navbar-top ul#top-navbar-collapse {
+    margin-top:10px;
+}
+header .navbar-top ul#top-navbar-collapse .dropdown-menu{
+    top: 88% !important;
+}
+header ul#top-navbar-collapse {
+    justify-content: center;
+}
+.navbar-bottom .navbar-nav{
+     justify-content: center;
+}
+ul#top-navbar-collapse a
+{
+  padding:15px;
+}
+
+nav.navbar.navbar-top.scroll {
+  background:#ffffff;
+}
+.summary-widget .contentblock .viewbtn a{
+    color:#fff;
+    /*background-color:#D11242;*/
+}
+
+.address-block-details {
+    display: none;
+}
+.outer-page h1,
+.outer-page h2{
+    text-transform: capitalize;
+}
+.resv-wrap .book_button:nth-child(odd) {
+    font-family: 'Raleway',serif;
+    font-size: 18px;
+    font-weight: Bold;
+}
+
+
+.outer-page .content_wrapper .no-gutter .txt-wdgt-btn-wrapper .btn ,
+.outer-page .content_wrapper .no-gutter .btn.btn-full-width ,
+.outerpage .content_wrapper .no-gutter .txt-wdgt-btn-wrapper .btn ,
+.outerpage .content_wrapper .no-gutter .btn.btn-full-width {
+  font-family: 'Raleway',serif; 
+  background: #990000;
+  color:#fff;
+  font-weight: bold;
+  font-size: clamp(12px,1.172vw,18px);
+}
+
+
+.outer-page .content_wrapper .no-gutter .widget-wrapper.wt1tb .text-content p{
+  margin: 0;
+}
+
+.outer-page .content_wrapper .no-gutter .widget-wrapper.simp-custom-nairobi-imgtxt .text-content-wrapper h2,
+.outerpage .content_wrapper .no-gutter .widget-wrapper.simp-custom-nairobi-imgtxt .text-content-wrapper h2{
+  padding: 8.3% 0;
+}
+
+.outer-page .content_wrapper .no-gutter .widget-wrapper.simp-custom-nairobi-imgtxt .text-content-wrapper div,
+.outerpage .content_wrapper .no-gutter .widget-wrapper.simp-custom-nairobi-imgtxt .text-content-wrapper div{
+  padding: 0 0 8.3%;
+}
+
+
+/* parent hotel book now button bg color */
+
+.parent-hotel .resv-wrap  .navbar-booking-wrap.dropdown .btn.btn-primary.dropdown-toggle {
+   background: #990000;
+}
+
+.outerpage .content_wrapper .no-gutter .widget-wrapper.wt2imgtop-2tbbot.two-col .text-content h2,
+.outerpage .content_wrapper .no-gutter .widget-wrapper.wt2imgtop-2tbbot.two-col .text-content h2{
+  padding-top: 4%;
+}
+
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter .widget-wrapper h1{
+    font-size:clamp(36px,3.125vw,48px);
+     font-family:'open sans',sans serif !important;
+}
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter .widget-wrapper h2{
+    font-size:clamp(26px,2.242vw,36px);
+    font-family:'open sans',sans serif !important;
+}
+ .child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter .widget-wrapper h3{
+    font-size:clamp(18px,1.562vw,24px);
+    font-family:'open sans',sans serif !important;
+}
+.child-hotel[data-hotelid="6793"]  p,
+.child-hotel[data-hotelid="6793"]  div{
+    font-size:clamp(13px,1.171vw,18px);
+    font-family:'open sans',sans serif !important;
+}
+.child-hotel[data-hotelid="6793"] .navbar a{
+    font-family:'open sans',sans serif !important;
+}
+.child-hotel[data-hotelid="6794"] .content_wrapper .no-gutter h1 {
+    font-weight:400;
+}
+
+
+/* for child eldoret changes */
+
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter h1,
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter h2,
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter h3,
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter h4,
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter h5,
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter h6{
+  font-family:"Lato",sans-serif !important;
+  color:#333;
+}
+
+body.child-hotel[data-hotelid="6793"]{
+  font-family:'Open Sans';
+  color:#000;
+}
+
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter h1{
+  color: #333333;
+}
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter h2{
+  color: #444444;
+  font-weight: 600;
+}
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter h3{
+  color: #555555;
+}
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter h4{
+  color: #666666;
+}
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter h5{
+  color: #777777;
+}
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter h6{
+  color: #888888;
+}
+
+.child-hotel[data-hotelid="6793"] .resv-wrap .resv.resv_button.book_button,
+.child-hotel[data-hotelid="6793"] #bookingForm .btn-wrapper .check-btn-holder .btn-full-width,
+.child-hotel[data-hotelid="6793"]  .content_wrapper .no-gutter .txt-wdgt-btn-wrapper .btn,
+.child-hotel.for-innerpage[data-hotelid="6793"] .content_wrapper .no-gutter .btn.btn-full-width{
+  font-family: 'Raleway',serif;
+  background: #FF0000;
+  color: #fff;
+  font-weight: bold;
+}
+
+.child-hotel[data-hotelid="6793"] header .navbar-bottom .moreOptions .dropdown-more {
+  background-color: #ffffff;
+}
+ 
+ .child-hotel[data-hotelid="6793"] header .navbar-bottom .moreOptions .dropdown-more>li>a {
+  color:#555555 ;
+  background: #f8f8f8 ;
+} 
+
+ .child-hotel[data-hotelid="6793"] header .navbar-bottom .moreOptions .dropdown-more>li>a:hover {
+  color:#ffffff ;
+  background: #333333 ;
+} 
+
+.for-homepage[data-hotelid="6793"] .content_wrapper .no-gutter:nth-of-type(2), 
+.for-innerpage[data-hotelid="6793"] .content_wrapper .no-gutter:nth-of-type(2){
+  display:none;
+}
+
+.child-hotel.for-innerpage[data-hotelid="6793"] .widget-wrapper.wtbookbtn .col-sm-12.one-col{
+  display: flex;
+  justify-content: center;
+}
+
+.child-hotel.for-innerpage[data-hotelid="6793"] .widget-wrapper.wt3imgtop-3tbbot.three-col h2{
+  padding:8.209% 0;
+}
+
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter  .widget-wrapper.simp-custom-center h2,
+.child-hotel[data-hotelid="6793"] .content_wrapper .no-gutter  .widget-wrapper.simp-custom-center div{
+    padding-bottom:4%;    
+}
+
+
+/* mobile */
+
+ .mobile[data-hotelid="6793"] .navbar-logo{
+   background: #fff;
+}
+
+ .mobile[data-hotelid="6793"] .mobile-menu .navBtnBorder,
+ .mobile[data-hotelid="6793"] .content_wrapper .no-gutter .txt-wdgt-btn-wrapper .btn{
+   background: #ff0000;
+}
+
+ .mobile[data-hotelid="6793"] .mobile-menu .navBtnBorder:hover,
+ .mobile[data-hotelid="6793"] .mobile-menu .navBtnBorder.active,
+ .mobile[data-hotelid="6793"] .mobile-menu .navBtnBorder:focus{
+   background:#ff0000 !important;  
+ }
+ 
+ .mobile[data-hotelid="6793"] .widget-wrapper.wtheader:first-child{
+   display:none
+}
+
+.mobile[data-hotelid="6793"] .simp-custom-widget-hide.simp-custom-table-border{
+   display:none
+}
+
+.mobile[data-hotelid="6793"] .simp-custom-center .text-content div {
+  padding: 0 0 10px;
+}
+
+.mobile.child-hotel.for-innerpage[data-hotelid="6793"] .widget-wrapper.wtbookbtn {
+    display:flex;
+    justify-content:center;
+}
+
+/*boma eldort*/
+.child-hotel .child-hotel #footer .boma-eldort{
+    padding-top: 30px;
+}
+.child-hotel #footer .boma-eldort .hotel-info .add_head {
+    padding-top: 15px;
+    text-align: left !important
+}
+.child-hotel #footer .boma-eldort .hotel-info .add_head p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.child-hotel #footer .boma-eldort .custom-footer.col-md-12.col-xs-12 {
+    padding: 4% 5% 2% 8%;
+}
+.child-hotel #footer .boma-eldort .logos .rewards span{
+    display:none;
+}
+.child-hotel #footer .boma-eldort .logos .rewards a img{
+    filter: none;
+    mix-blend-mode: multiply;
+    width: 86%;
+    height: 18vh;
+    margin-top: -106px;
+    /*margin-right: 50%;*/
+    /*margin-left: 17%;*/
+}
+.child-hotel #footer .boma-eldort .hotel-info .add_head p:first-child {
+  margin-bottom: 10px;
+}
+.child-hotel #footer .rewards a img{
+    width: 86%;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 !important;
+}
+.child-hotel #footer .aleph-properties .midfooter .property1 a:nth-of-type(8) img{
+    width: 88% !important;
+    height: 66% !important;
+    margin-top: 16px;
+    margin-left: -27px;
+}
+.child-hotel #footer .boma-eldort .three-col .clearfix {
+    width: 100%;
+}
+.child-hotel #footer .boma-eldort .three-col .footer_navbar {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.child-hotel #footer .boma-eldort .footer_navbar_wrapper .fsitemap {
+    column-count:2;
+}
+.child-hotel #footer .boma-eldort .three-col li {
+    display: block !important;
+    text-align: left;
+    font-weight: 300 !important;
+    font-size: 16px;
+    margin-top: 4px;
+}
+.child-hotel #footer .boma-eldort .three-col {
+    margin-top: 20px !important;
+}
+.child-hotel #footer .boma-eldort .add_cont {
+    padding: 5px 0 !important;
+}
+.child-hotel #footer .boma-eldort .add_cont ul li {
+    padding-bottom: 3px !important;
+}
+.child-hotel #footer .boma-eldort .fsitemap {
+    padding-top: 0px !important;
+}
+
+@media (min-width: 1101px) {
+    .child-hotel #footer .boma-eldort .icon-col {
+        padding-left: 5%;
+    }
+}
+.child-hotel #footer .boma-eldort .icon-col .social_block {
+  width: 100%;
+}
+.child-hotel #footer .boma-eldort .icon-col .social_block .social_head {
+  padding-top: 20px;
+  text-align: left;
+}
+.child-hotel #footer .boma-eldort .icon-col .social_block .social_head p {
+  padding-top: 0;
+  display:none;
+}
+.child-hotel #footer .boma-eldort .icon-col .social_block .social_cont .socialIcon {
+  display: flex;
+  margin-left: -7px;
+}
+.child-hotel #footer .boma-eldort .icon-col .social_block .social_cont a {
+   margin-left: 3% !important;
+}
+.child-hotel #footer .boma-eldort .icon-col .social_block .social_cont a:first-child {
+  margin-left: 0;
+}
+.child-hotel #footer .boma-eldort .icon-col .social_block .social_cont .fa-tripadvisor{
+    margin-left: 9%;
+}
+.child-hotel #footer .boma-eldort .icon-col .social_block .social_cont a:last-child {
+  margin-right: 0;
+}
+.child-hotel #footer .boma-eldort .icon-col .address_block .add_cont ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.child-hotel #footer .boma-eldort .icon-col .address_block .add_cont .footer-detail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.child-hotel #footer .boma-eldort .icon-col .address_block .add_cont .footer-detail .fa-stack{
+  margin-bottom: 12px;
+}
+.child-hotel #footer .boma-eldort .footer_navbar_wrapper {
+    border: none;
+}
+.child-hotel #footer .boma-eldort .col-md-3.col-xs-3.hotel-info img {
+    filter: brightness(0) invert(1);
+    width: 44%;
+    height: 70%;
+}
+/* aleph properties */
+.child-hotel #footer .boma-eldort .aleph-properties {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.child-hotel #footer .boma-eldort .aleph-properties .prop-logos {
+    margin: 20px 0;
+    width: 100%;
+    text-align: center;
+}
+.child-hotel #footer .boma-eldort .aleph-properties .prop-logos a {
+    margin-right: 3%;
+}
+.child-hotel #footer .boma-eldort .visitHotelsContainer2{
+    display:none
+}
+.child-hotel #footer .boma-eldort .aleph-properties {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.child-hotel #footer .boma-eldort .logos .aleph{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -4px;
+    padding-top: 3px;
+}
+.child-hotel #footer .boma-eldort .logos .aleph img {
+    filter: brightness(0) invert(1);
+    /* width: 135%; */
+    /* height: 91px; */
+    display: flex;
+    margin-top: 6px;
+    justify-content: center;
+    align-items: center;
+}
+.child-hotel #footer .boma-eldort .logos .rewards{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     margin-bottom: -38px;
+}
+.child-hotel #footer .boma-eldort .logos .rewards img{
+    /* width: 135%; */
+    display: flex;
+    /* height: 94px; */
+    /* align-items: center; */
+}
+.custom-footer .midfooter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child-hotel #footer .boma-eldort .logos .rewards a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.child-hotel #footer .boma-eldort .logos .rewards a img{
+    margin-top: -61px;
+}
+.child-hotel #footer .boma-eldort .logos .hotel-logos{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+    display: none;
+}
+.child-hotel .boma-inn-nairobi .visitHotelsContainer .property1  {
+    margin: 20px 0; 
+    width: 100%; 
+    text-align: center;
+    flex-wrap: wrap;
+}
+.child-hotel #footer .boma-eldort .logos .redcross{
+  align-items: center;
+  display: none;
+}
+.child-hotel #footer .boma-eldort .logos .aleph{
+    padding-right:35px;
+}
+.child-hotel #footer .boma-eldort .logos .aleph span{
+    width: 200%;
+}
+@media (max-width: 1100px) {
+  .child-hotel #footer .boma-eldort .comm_cont .col-xs-12 {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+@media screen and (max-width:1104px){
+    .child-hotel #footer .boma-eldort .logos .rewards a img {
+    margin-top: -37px;
+}
+}
+@media screen and (max-width:880px){
+  .child-hotel #footer .boma-eldort .fsitemap{
+    padding-left:0px;
+  }
+}
+@media screen and (max-width:768px){
+    .child-hotel #footer .boma-eldort .logos .rewards a img {
+    margin-top: -24px;
+    }
+}
+@media screen and (max-width:757px){
+  .child-hotel #footer .boma-eldort .pull-left{
+    padding:0px;
+  }
+}
+/*boma-hotel-nairobi*/
+.child.hotel .child-hotel #footer .boma-hotel-nairobi{
+    padding-top: 30px;
+}
+.child-hotel #footer .boma-hotel-nairobi .hotel-info .add_head {
+    padding-top: 15px;
+    text-align: left !important
+}
+.child-hotel #footer .boma-hotel-nairobi .custom-footer.col-md-12.col-xs-12{
+    padding:4% 2% 2% 5%;
+}
+.child-hotel #footer .boma-hotel-nairobi .logos .rewards span{
+    display:none;
+}
+.child-hotel #footer .boma-hotel-nairobi .logos .rewards a img{
+    filter: none;
+    mix-blend-mode: multiply;
+    width: 86%;
+    height: 18vh;
+/*    margin-top: -108px !important;*/
+    /*margin-left: 30%;*/
+    /*margin-right: 88%;*/
+}
+.child-hotel #footer .boma-hotel-nairobi .logos .rewards span{
+    display:none;
+}
+/*.child-hotel #footer .boma-hotel-nairobi .logos .rewards a img{*/
+/*    filter: none;*/
+/*    mix-blend-mode: multiply;*/
+/*    width: 70%;*/
+/*    height: 30vh;*/
+    /*margin-right: 48%;*/
+    /*margin-left: 1%;*/
+/*}*/
+.child-hotel #footer .boma-hotel-nairobi .custom-footer.col-md-12.col-xs-12{
+    padding:4% 4% 2% 6%;
+}
+.child-hotel #footer .boma-hotel-nairobi .hotel-info .add_head p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.child-hotel #footer .boma-hotel-nairobi .hotel-info .add_head p:first-child {
+  margin-bottom: 10px;
+}
+
+.child-hotel #footer .boma-hotel-nairobi .three-col .clearfix {
+    width: 100%;
+}
+.child-hotel #footer .boma-hotel-nairobi .three-col .footer_navbar {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.child-hotel #footer .boma-hotel-nairobi .footer_navbar_wrapper .fsitemap {
+    column-count:2;
+}
+.child-hotel #footer .boma-hotel-nairobi .three-col li {
+    display: block !important;
+    text-align: left;
+    font-weight: 300 !important;
+    font-size: 16px;
+    margin-top: 4px;
+}
+.child-hotel #footer .boma-hotel-nairobi .three-col {
+    margin-top: 20px !important;
+}
+.child-hotel #footer .boma-hotel-nairobi .add_cont {
+    padding: 5px 0 !important;
+}
+.child-hotel #footer .boma-hotel-nairobi .add_cont ul li {
+    padding-bottom: 3px !important;
+}
+.child-hotel #footer .boma-hotel-nairobi .fsitemap {
+    padding-top: 0px !important;
+}
+
+@media (min-width: 1101px) {
+    .child-hotel #footer .boma-hotel-nairobi .icon-col {
+        padding-left: 5%;
+    }
+}
+.child-hotel #footer .boma-hotel-nairobi .icon-col .social_block {
+  width: 100%;
+}
+.child-hotel #footer .boma-hotel-nairobi .icon-col .social_block .social_head {
+  padding-top: 20px;
+  text-align: left;
+}
+.child-hotel #footer .boma-hotel-nairobi .icon-col .social_block .social_head p {
+  padding-top: 0;
+  display:none;
+}
+.child-hotel #footer .boma-hotel-nairobi .icon-col .social_block .social_cont .socialIcon {
+  display: flex;
+  margin-left: -7px;
+}
+.child-hotel #footer .boma-hotel-nairobi .icon-col .social_block .social_cont a {
+   margin-left: 3% !important;
+}
+.child-hotel #footer .boma-hotel-nairobi .icon-col .social_block .social_cont a:first-child {
+  margin-left: 0;
+}
+.child-hotel #footer .boma-hotel-nairobi .icon-col .social_block .social_cont .fa-tripadvisor{
+    margin-left: 9%;
+}
+.child-hotel #footer .boma-hotel-nairobi .icon-col .social_block .social_cont a:last-child {
+  margin-right: 0;
+}
+.child-hotel #footer .boma-hotel-nairobi .icon-col .address_block .add_cont ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.child-hotel #footer .boma-hotel-nairobi .icon-col .address_block .add_cont .footer-detail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.child-hotel #footer .boma-hotel-nairobi .icon-col .address_block .add_cont .footer-detail .fa-stack{
+  margin-bottom: 12px;
+}
+.child-hotel #footer .boma-hotel-nairobi .footer_navbar_wrapper {
+    border: none;
+}
+.child-hotel #footer .boma-hotel-nairobi .hotel-info img{
+    filter: none;
+}
+.child-hotel #footer .boma-hotel-nairobi .col-md-3.col-xs-3.hotel-info img {
+    filter: brightness(0) invert(1);
+    width: 44%;
+    height: 70%;
+}
+/* aleph properties */
+.child-hotel #footer .boma-hotel-nairobi .aleph-properties {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.child-hotel #footer .boma-hotel-nairobi .aleph-properties .prop-logos {
+    margin: 20px 0;
+    width: 100%;
+    text-align: center;
+}
+.child-hotel #footer .boma-hotel-nairobi .aleph-properties .prop-logos a {
+    margin-right: 3%;
+}
+.child-hotel #footer .boma-hotel-nairobi .visitHotelsContainer2{
+    display:none
+}
+.child-hotel #footer .boma-hotel-nairobi .aleph-properties {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.child-hotel .boma-hotel-nairobi .visitHotelsContainer .property1  {
+    margin: 20px 0; 
+    width: 100%; 
+    text-align: center;
+    flex-wrap: wrap;
+}
+.child-hotel #footer .boma-hotel-nairobi .logos .aleph{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -4px;
+    padding-top: 3px;
+}
+.child-hotel #footer .boma-hotel-nairobi .logos .aleph img {
+    filter: brightness(0) invert(1);
+    /* width: 135%; */
+    /* height: 91px; */
+    display: flex;
+    margin-top: 6px;
+    justify-content: center;
+    align-items: center;
+}
+.child-hotel #footer .boma-hotel-nairobi .logos .rewards{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     margin-bottom: -38px;
+}
+.child-hotel #footer .boma-hotel-nairobi .logos .rewards img{
+    /* width: 135%; */
+    display: flex;
+    /* height: 94px; */
+    /* align-items: center; */
+}
+.custom-footer .midfooter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child-hotel #footer .boma-hotel-nairobi .logos .rewards a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.child-hotel #footer .boma-hotel-nairobi .logos .rewards a img{
+    margin-top: -61px;
+}
+.child-hotel #footer .boma-hotel-nairobi .logos .hotel-logos{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+    display: none;
+}
+.child-hotel #footer .boma-hotel-nairobi .logos .redcross{
+  align-items: center;
+  display: none;
+}
+.child-hotel #footer .boma-hotel-nairobi .logos .aleph{
+    padding-right:35px;
+}
+.child-hotel #footer .boma-hotel-nairobi .logos .aleph span{
+    width: 200%;
+}
+@media (max-width: 1100px) {
+  .child-hotel #footer .boma-hotel-nairobi .comm_cont .col-xs-12 {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+@media screen and (max-width:1104px){
+    .child-hotel #footer .boma-hotel-nairobi .logos .rewards a img {
+    margin-top: -37px;
+}
+}
+@media screen and (max-width:880px){
+  .child-hotel #footer .boma-hotel-nairobi .fsitemap{
+    padding-left:0px;
+  }
+}
+@media screen and (max-width:768px){
+    .child-hotel #footer .boma-hotel-nairobi .logos .rewards a img {
+    margin-top: -24px;
+    }
+}
+@media screen and (max-width:757px){
+  .child-hotel #footer .boma-hotel-nairobi .pull-left{
+    padding:0px;
+  }
+}
+/*boma-inn-nairobi*/
+.child-hotel #footer .boma-inn-nairobi{
+    padding-top: 25px;
+}
+.child-hotel #footer .boma-inn-nairobi .hotel-info .add_head {
+    padding-top: 15px;
+    text-align: left !important
+}
+.child-hotel #footer .boma-inn-nairobi .hotel-info .add_head p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.child-hotel #footer .boma-inn-nairobi .hotel-info .add_head p:first-child {
+  margin-bottom: 10px;
+}
+
+.child-hotel #footer .boma-inn-nairobi .three-col .clearfix {
+    width: 100%;
+}
+.child-hotel #footer .boma-inn-nairobi .three-col .footer_navbar {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.child-hotel #footer .boma-inn-nairobi .footer_navbar_wrapper .fsitemap {
+    column-count:2;
+}
+.child-hotel #footer .boma-inn-nairobi .three-col li {
+    display: block !important;
+    text-align: left;
+    font-weight: 300 !important;
+    font-size: 16px;
+    margin-top: 4px;
+}
+.child-hotel #footer .boma-inn-nairobi .three-col {
+    margin-top: 20px !important;
+}
+.child-hotel #footer .boma-inn-nairobi .add_cont {
+    padding: 5px 0 !important;
+}
+.child-hotel #footer .boma-inn-nairobi .add_cont ul li {
+    padding-bottom: 3px !important;
+}
+.child-hotel #footer .boma-inn-nairobi .fsitemap {
+    padding-top: 0px !important;
+}
+
+@media (min-width: 1101px) {
+    .child-hotel #footer .boma-inn-nairobi .icon-col {
+        padding-left: 5%;
+    }
+}
+.child-hotel #footer .boma-inn-nairobi .icon-col .social_block {
+  width: 100%;
+}
+.child-hotel #footer .boma-inn-nairobi .icon-col .social_block .social_head {
+  padding-top: 20px;
+  text-align: left;
+}
+.child-hotel #footer .boma-inn-nairobi .icon-col .social_block .social_head p {
+  padding-top: 0;
+  display:none;
+}
+.child-hotel #footer .boma-inn-nairobi .icon-col .social_block .social_cont .socialIcon {
+  display: flex;
+  margin-left: -7px;
+}
+.child-hotel #footer .boma-inn-nairobi .icon-col .social_block .social_cont a {
+   margin-left: 3% !important;
+}
+.child-hotel #footer .boma-inn-nairobi .icon-col .social_block .social_cont a:first-child {
+  margin-left: 0;
+}
+.child-hotel #footer .boma-inn-nairobi .icon-col .social_block .social_cont .fa-tripadvisor{
+    margin-left: 9%;
+}
+.child-hotel #footer .boma-inn-nairobi .icon-col .social_block .social_cont a:last-child {
+  margin-right: 0;
+}
+.child-hotel #footer .boma-inn-nairobi .icon-col .address_block .add_cont ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.child-hotel #footer .boma-inn-nairobi .icon-col .address_block .add_cont .footer-detail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.child-hotel #footer .boma-inn-nairobi .icon-col .address_block .add_cont .footer-detail .fa-stack{
+  margin-bottom: 12px;
+}
+.child-hotel #footer .boma-inn-nairobi .footer_navbar_wrapper {
+    border: none;
+}
+.child-hotel #footer .boma-inn-nairobi .col-md-3.col-xs-3.hotel-info img {
+    filter: brightness(0) invert(1);
+    width: 44%;
+    height: 70%;
+}
+/* aleph properties */
+.child-hotel #footer .boma-inn-nairobi .aleph-properties {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.child-hotel #footer .boma-inn-nairobi .aleph-properties .prop-logos {
+    margin: 20px 0;
+    width: 100%;
+    text-align: center;
+}
+.child-hotel #footer .boma-inn-nairobi .aleph-properties .prop-logos a {
+    margin-right: 3%;
+}
+.child-hotel #footer .boma-inn-nairobi .visitHotelsContainer2{
+    display:none
+}
+.child-hotel #footer .boma-inn-nairobi .aleph-properties {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.child-hotel #footer .boma-inn-nairobi .logos .aleph{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -4px;
+    padding-top: 3px;
+}
+.child-hotel #footer .boma-inn-nairobi .logos .aleph img {
+    filter: brightness(0) invert(1);
+    /* width: 135%; */
+    /* height: 91px; */
+    display: flex;
+    margin-top: 6px;
+    justify-content: center;
+    align-items: center;
+}
+.child-hotel #footer .boma-inn-nairobi .logos .rewards{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     margin-bottom: -38px;
+}
+.child-hotel .boma-inn-nairobi .visitHotelsContainer .property1  {
+    margin: 20px 0; 
+    width: 100%; 
+    text-align: center;
+    flex-wrap: wrap;
+}
+.child-hotel #footer .boma-inn-nairobi .custom-footer.col-md-12.col-xs-12{
+    padding: 4% 5% 2% 8%;
+}
+.child-hotel #footer .boma-inn-nairobi .logos .rewards span{
+    display:none;
+}
+#footer .boma-inn-nairobi .logos .rewards a img{
+    filter: none;
+    mix-blend-mode: multiply;
+    width: 86%;
+    height: 18vh;
+    /*margin-top: 109px;*/
+    /*margin-right: 56%;*/
+}
+.child-hotel #footer .boma-inn-nairobi .logos .rewards img{
+    /* width: 135%; */
+    display: flex;
+    /* height: 94px; */
+    /* align-items: center; */
+}
+.custom-footer .midfooter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child-hotel #footer .boma-inn-nairobi .logos .rewards a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.child-hotel #footer .boma-inn-nairobi .logos .rewards a img{
+    margin-top: -61px;
+    width: 86%;
+    height: 18vh;
+}
+.child-hotel #footer .boma-inn-nairobi .logos .hotel-logos{
+    /*align-items: center;*/
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*margin-left: 0;*/
+    display:none;
+}
+.child-hotel #footer .boma-inn-nairobi .logos .redcross{
+  align-items: center;
+  display:none;
+}
+.child-hotel #footer .boma-inn-nairobi .logos .aleph{
+    padding-right:35px;
+}
+.child-hotel #footer .boma-inn-nairobi .logos .aleph span{
+    width: 200%;
+}
+@media (max-width: 1100px) {
+  .child-hotel #footer .boma-inn-nairobi .comm_cont .col-xs-12 {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+@media screen and (max-width:1104px){
+    .child-hotel #footer .boma-inn-nairobi .logos .rewards a img {
+    margin-top: -37px;
+}
+}
+@media screen and (max-width:880px){
+  .child-hotel #footer .boma-inn-nairobi .fsitemap{
+    padding-left:0px;
+  }
+}
+@media screen and (max-width:768px){
+    .child-hotel #footer .boma-inn-nairobi .logos .rewards a img {
+    margin-top: -24px;
+    }
+}
+@media screen and (max-width:757px){
+  .child-hotel #footer .boma-inn-nairobi .pull-left{
+    padding:0px;
+  }
+}
+
+.mobile .content_wrapper .no-gutter h1, 
+.mobile .content_wrapper .no-gutter h2 {
+    border-bottom: 0px !important;
+}
+
+
+.mobile .fullImage img{
+    height: 350px;
+    object-fit: cover;
+}
+.mobile h2 {
+    font-size:22px;
+}
+.mobile .simp-custom-table-border table,
+.mobile .simp-custom-table-border td{
+    border:none !important;
+}
+
+.mobile .simp-custom-table-border table,
+.mobile .simp-custom-table-border td{
+    border:none !important;
+}
+
+.mobile .simp-custom-table-border tr:nth-child(3) td {
+    padding: 0!important;
+}
+
+.mobile .simp-custom-table-border tr:nth-child(3) td .one-col {
+    padding: 0px!important;
+    width: 100px;
+    margin-left: -15px;
+}
+.mobile .name-of-hotel {
+    display: none;
+}
+.mobile .wt-image-text-slider .slick-slide {
+    margin: 0 10px;
+    padding: 10px!important;
+    background-color: #fff;
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,0.2);
+}
+.mobile .wt-image-text-slider .slick-next::before, .mobile .wt-image-text-slider .slick-prev::before {
+    font-size: 35px;
+}
+.mobile .wt-image-text-slider .slick-next::before, .mobile .wt-image-text-slider .slick-prev::before {
+    font-size: 35px;
+    position: relative;
+    top: -25px;
+}
+.mobile .wt-image-text-slider .slick-slide {
+    margin: 0 10px;
+    padding: 10px!important;
+    background-color: #fff;
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,0.2);
+}
+.mobile .fab_book_button .fa-calendar.fa-2x {
+    font-size: 25px !important;
+    width: 60px !important;
+    height: 60px !important;
+}
+.mobile .fab_book_button {
+    right: 30px;
+    bottom: 10px;
+}
+.mobile h1,
+.mobile h2{
+    text-align:center !important;
+}
+.mobile .widget-wrapper.wt1tb.bgColorContainer {
+    margin-bottom: 0px;
+}
+
+.mobile .widget-wrapper.wt1tb.bgColorContainer h2 {
+    padding-bottom: 0px;
+}
+
+
+
+.mobile #accordion{
+    display:none !important;
+}
+
+.mobile h1{
+    font-size:26px;
+}
+.mobile .drop-menu-header-block{
+    background-color:#d5d4d4;
+}
+.mobile .simp-custom-mobile-widget-hide {
+    display: none!important;
+}
+
+.mobile .slick-slider .slick-slide h3 a span{
+    color:#231f20 !important;
+}
+.mobile .slick-slider .slick-slide {
+    background-color:#F2F2F2 !important;
+}
+.mobile .simp-custom-activities h3{
+    font-family: Classico-URW,sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    margin-bottom: 10px
+}
+
+.mobile .simp-custom-sheen-text {
+    display: block;    
+}
+.mobile .simp-custom-sheen-text .col-xs-12:not(:last-child) {
+    margin-bottom: 30px;
+}
+.mobile .simp-custom-sheen-text .col-xs-12 img.img-responsive {
+    margin-top: 0 !important;
+}
+.mobile .simp-custom-sheen-text .col-xs-12 {
+    padding: 10px;
+    box-shadow: 0 2px 8px 0 rgb(0 0 0 / 20%);
+    background-color: #F2F2F2 !important;
+}
+.mobile .simp-custom-sheen-text a span {
+    color: black !important;
+}
+
+
+/* mobile  child except eldoret child */
+
+ .mobile .navbar-logo{
+	background: #fff;
+  }
+  .mobile .mobile-menu .navBtnBorder,
+  .mobile .mobile-menu .navBtnBorder:hover,
+  .mobile .mobile-menu .navBtnBorder.active,
+  .mobile  .mobile-menu .navBtnBorder:focus{
+	background:#990000 ;  
+  }
+ 
+ .mobile .widget-wrapper.wtheader h1{
+	 display:none;
+  }
+ 
+  .mobile .content_wrapper .no-gutter .txt-wdgt-btn-wrapper .btn{
+	 background:#990000 ;  
+  }
+
+
+.mobile[data-hotelid="6793"] .content_wrapper .no-gutter h1{
+    font-size:36px;
+     font-family:'open sans',sans serif !important;
+}
+.mobile[data-hotelid="6793"] .content_wrapper .no-gutter h2{
+    font-size:26px;
+    font-family:'open sans',sans serif !important;
+}
+.mobile[data-hotelid="6793"] .content_wrapper .no-gutter h3{
+    font-size:18px;
+    font-family:'open sans',sans serif !important;
+}
+.mobile[data-hotelid="6793"]  p,
+.mobile[data-hotelid="6793"] div{
+    font-size:13px;
+    font-family:'open sans',sans serif !important;
+}
+/*.mobile[data-hotelid="6793"] a{*/
+/*    font-family:'open sans',sans serif !important;*/
+/*}*/
+
+
+
+/* menu items */
+
+/*[data-hotelid="6794"] header .navbar-bottom {*/
+/*    background-color:  #ffffff !important;*/
+    
+/*}*/
+
+/*[data-hotelid="6794"] header .navbar-bottom .navbar-nav>li>a{*/
+/*    color:#333333*/
+/*}*/
+
+/* hover */
+
+/*[data-hotelid="6794"] header .navbar-bottom .navbar-nav>li>a:hover,*/
+/*[data-hotelid="6794"] header .navbar-bottom .navbar-nav>li>a:focus,*/
+/*[data-hotelid="6794"] header .navbar-bottom .navbar-nav>li>a:active {*/
+/*    background-color: #f8f8f8 !important;*/
+/*}*/
+
+/* after hover */
+
+/*[data-hotelid="6794"] header .navbar-bottom .navbar-nav>li>a:hover{*/
+/*    color: #FF0000 ;*/
+/*}*/
+
+/* headers */
+
+[data-hotelid="6794"] .content_wrapper .no-gutter h1{
+    font-family: "Lato", sans-serif;
+    color:#333333; 
+    font-weight:400;
+}
+
+
+[data-hotelid="6793"] .content_wrapper .no-gutter h1{
+    font-family: "Lato", sans-serif;
+    color:#333333 ;
+    font-weight:400;
+}
+
+[data-hotelid="6794"] .content_wrapper .no-gutter h2{
+    font-family: "Lato", sans-serif;
+    color:#444444;
+}
+
+[data-hotelid="6794"] .content_wrapper .no-gutter h3{
+    font-family: "Lato", sans-serif !important;
+    color:#555555;
+}
+
+[data-hotelid="6794"] .content_wrapper .no-gutter h4{
+    font-family: "Lato", sans-serif;
+    color: #666666;
+}
+
+[data-hotelid="6794"] .content_wrapper .no-gutter h5{
+    font-family: "Lato", sans-serif;
+    color:#777777;
+}
+
+[data-hotelid="6794"] .content_wrapper .no-gutter h6{
+    font-family: "Lato", sans-serif;
+    color: #888888;
+}
+
+/* body */
+
+
+[data-hotelid="6794"] .content_wrapper .no-gutter font,
+[data-hotelid="6794"] .content_wrapper .no-gutter dv,
+[data-hotelid="6794"] .content_wrapper .no-gutter em,
+[data-hotelid="6794"] .content_wrapper .no-gutter  ul li,
+[data-hotelid="6794"] .content_wrapper .no-gutter ol li,
+[data-hotelid="6794"] .content_wrapper .no-gutter br{
+    font-family: 'open sans', sans serif;
+    color:#444444; 
+}
+
+[data-hotelid="6794"] .content_wrapper .no-gutter p{
+    color:#555555;
+}
+
+[data-hotelid="6794"] .content_wrapper .no-gutter .btn{
+    background:#FF0000 !important;
+    color:#ffffff;
+}
+
+/* Buttons Colour */
+
+[data-hotelid="6794"] .resv{
+    background:#FF0000;
+    color:#ffff;
+    
+}
+
+
+
+/* mobile */
+
+[data-hotelid="6794"].mobile .mobile-menu {
+    display: flex;
+    width: 100%;
+    background: #ffff;
+}
+
+[data-hotelid="6794"].mobile .mobile-menu .navBtnBorder{
+    background:#FF0000;
+}
+
+[data-hotelid="6794"].mobile a.geo.navBtnBorder.top_padding.menu-item.map-btn:hover {
+    color:#fff;
+}
+
+[data-hotelid="6794"].mobile a.tel.navBtnBorder.top_padding.menu-item.call-btn:hover {
+    color:#fff;
+}
+
+[data-hotelid="6794"] .wt-image-text-slider .slick-prev:before,
+[data-hotelid="6794"] .wt-image-text-slider .slick-next:before{
+    color:#FF0000;
+}
+
+[data-hotelid="6794"] #bookingForm .btn-wrapper .check-btn-holder .btn-full-width{
+    background:#ff0000;
+    height: 40px;
+}
+
+[data-hotelid="6794"] .bookingform-wrapper .abs_parent #bookingForm .btn-wrapper {
+    position: absolute;
+    display: inline-block;
+    margin: 36px 0 0;
+    bottom: unset;
+    right: 40px;
+    width: calc(50% / 4);
+}
+
+[data-hotelid="6794"] #bookingForm .btn-wrapper .check-btn-holder .btn-full-width{
+    background:#ff0000;
+    height: 40px;
+}
+
+.bookingform-wrapper .abs_parent #bookingForm .btn-wrapper {
+    position: absolute;
+    display: inline-block;
+    margin: 36px 0 0;
+    bottom: unset;
+    right: 40px;
+    width: calc(50% / 4);
+}
+
+ #footer .socialIcon a:hover .fa{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+ }
+
+[data-hotelid="6794"] .child-hotel #footer .boma-inn-nairobi .icon-col .social_block .social_cont .fa-tripadvisor{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+[data-hotelid="6794"] #footer .socialIcon a.social-ta:hover{
+    background:#fff;  
+}
+
+[data-hotelid="6794"] #footer .socialIcon a.social-ta .fa-tripadvisor:before{
+    color:#000
+}
+
+[data-hotelid="6794"] #footer .socialIcon a.social-ta {
+    display:flex;
+    justify-content:center;
+    align-content:center;
+}
+
+[data-hotelid="6794"].mobile .fab_book_button .fa-calendar.fa-2x{
+    background: #ff0000;
+}
+
+
+/*eldoret*/
+
+[data-hotelid="6793"] .content_wrapper .no-gutter p{
+    color:#555555;
+}
+
+/* desktop parent book now dropdown */
+.parent-hotel .resv-wrap .navbar-booking-wrap.dropdown {
+    width: 220px;
+    height: 40px;
+}
+
+.parent-hotel .resv-wrap  .navbar-booking-wrap.dropdown .btn.btn-primary.dropdown-toggle {
+    width: 175px;
+    font-family:'Raleway',serif;
+}
+
+.parent-hotel .resv-wrap .navbar-booking-wrap.dropdown ul.dropdown-menu.show {
+    animation: fadeIn 0.5s 1;
+}
+
+.parent-hotel .resv-wrap .navbar-booking-wrap.dropdown ul.dropdown-menu {
+    padding: 10px 0;
+    background-color: #d11242;
+    width: 222px;
+}
+
+.parent-hotel .resv-wrap .navbar-booking-wrap.dropdown .btn-full-width {
+    color: #d11242;
+    width: 85%;
+    margin: 15px auto;
+}
+
+.parent-hotel .resv-wrap .navbar-booking-wrap.dropdown .btn-full-width:hover,
+.parent-hotel .resv-wrap .navbar-booking-wrap.dropdown .btn-full-width:focus {
+    color: white;
+    background-color: black;
+}
+
+/* mobile book now parent dropdown */
+.mobile.parent-hotel .sm_booking_form ul {
+    list-style: none;
+    padding: 0;
+}
+
+.mobile.parent-hotel .sm_booking_form ul li {
+    padding: 10px;
+}
+
+.mobile.parent-hotel .sm_booking_form a.btn.btn-full-width {
+    padding: 10px;
+}
+
+.mobile.parent-hotel .sm_booking_form .modal-header button.close {
+    font-size: 30px;
+    color: grey;
+}
+
+.child-hotel .outer-page #footer .custom-footer .new_hotel_heading{
+    width:100%;
+}
+.child-hotel .outer-page #footer .custom-footer .new_hotel_heading p{
+    padding-bottom:1%;
+    text-align:center;
+}
+
+.parent-hotel .outer-page #footer .topfooter .new_hotel_heading p{
+    padding-bottom:3%;
+}
+@media screen and (max-width: 950px) {
+   .parent-hotel .outer-page #footer .topfooter .new_hotel_heading {
+      padding:0 0 0 8%;
+   }
+}
+
+
+
+
+
+
+
+/*.for-homepage .bookingform-wrapper .abs_parent{*/
+/*    width: 100%;*/
+/*    max-width: 100%;*/
+/*}*/
+/*.for-homepage .jssor-carousel-container #bookingForm{*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    padding-bottom: 60px;*/
+/*    background: transparent;*/
+/*}*/
+/*.for-homepage .jssor-carousel-container #bookingForm .booking-form{*/
+/*  display: flex;*/
+/*  margin: 0;*/
+/*  padding-bottom: 0;*/
+/*}*/
+/*.for-homepage .jssor-carousel-container .bookingform-wrapper{*/
+/*    bottom: 0;*/
+/*    background: rgb(24 22 30 / 45%);*/
+/*}*/
+/*.for-homepage #bookingForm .select-block{*/
+/*  padding-right: 0;*/
+/*}*/
+/*.for-homepage .bookingform-wrapper #booking-form .promo-block{*/
+/*    display:block !important;*/
+/*    width: 125px;*/
+/*} */
+/*.for-homepage .jssor-carousel-container #bookingForm .form-group.date-parameter-block.tohide{*/
+/*  display: block !important;*/
+/*  margin-right: 0 !important;*/
+/*  width: 140px;*/
+/*}*/
+/*.for-homepage .jssor-carousel-container #bookingForm .btn-wrapper{*/
+/*  align-self: end;*/
+/*  bottom: unset;*/
+/*  position: relative;*/
+/*  right: 0;*/
+/*}*/
+/*.for-homepage .jssor-carousel-container.camera-carousel-container.aspectratio16-9.video-banner-container .bookingform-wrapper{*/
+/*    bottom: 15%;*/
+/*}*/
+/*@media (min-width: 1300px){*/
+/*    .for-homepage .bookingform-wrapper .abs_parent{*/
+/*        width: 85%;*/
+/*    }*/
+/*}*/
+/*@media (min-width: 1600px){*/
+/*    .for-homepage .bookingform-wrapper .abs_parent{*/
+/*        width: 75%;*/
+/*    }*/
+/*}*/
+/*@media (min-width: 1800px){*/
+/*    .for-homepage .bookingform-wrapper .abs_parent{*/
+/*        width: 65%;*/
+/*    }*/
+/*}*/
+/*@media (max-width: 990px){*/
+/*    .for-homepage .jssor-carousel-container #bookingForm .form-group.date-parameter-block.tohide{*/
+/*        width: 120px;*/
+/*    }*/
+/*    .for-homepage .bookingform-wrapper #booking-form .promo-block{*/
+/*        width: 100px;*/
+/*    }*/
+/*}*/
+
+
+/*.jssor-carousel-wrapper .jssor-carousel .jssorb036{*/
+/*  display:none;*/
+/*}*/
+
+.for-homepage .jssor-carousel-container .jssor-home-wrapper #homeCarousel>div:nth-child(3) {
+    bottom: 15% !important;
+}
+
+.video-banner-container .bookingform-wrapper {
+    bottom: 0;
+}
+
+.bookingform-wrapper {
+    bottom:0;
+    background: rgba(0, 0, 0, 0.50);
+}
+
+.bookingform-wrapper .abs_parent {  
+    z-index: 201;
+    width: 80%;
+    max-width: 1044px;
+}
+
+.bookingform-wrapper .abs_parent #bookingForm {
+     padding: 10px 20px 30px;
+     background: none;
+}
+
+.bookingform-wrapper .abs_parent #bookingForm .form-group.select-block.select-location,.bookingform-wrapper .abs_parent #bookingForm  .form-group.select-block.select-hotel {
+    display: inline-block;
+    width: 25%;
+    padding: 0;
+}
+
+.bookingform-wrapper .abs_parent #bookingForm .form-group.date-parameter-block {
+    margin: 0px !important;
+    display: inline-block !important;
+    width: 135px !important;
+}
+#bookingForm .booking-form{
+    display: block;
+    float: none;
+}
+#bookingForm .adult-wrapper, #bookingForm .child-wrapper, #bookingForm .room-wrapper {
+    display: none !important;
+}
+.bookingform-wrapper .abs_parent #bookingForm .btn-wrapper {
+  position: absolute;
+  display: inline-block;
+  margin: 32px 0 0;
+  bottom: unset;
+  right: 40px;
+  width: calc(50% / 4);
+}
+.bookingform-wrapper .abs_parent #bookingForm .form-group.select-block.select-location, .bookingform-wrapper .abs_parent #bookingForm .form-group.select-block.select-hotel{
+    width: 22%;
+}
+
+#bookingForm .open-form-block .open-booking-form {
+    display: none !important;
+}
+
+.modal-content .whyBookDirect a{
+    white-space:nowrap;
+}
+@media (max-width: 1024px) {
+    .bookingform-wrapper .abs_parent #bookingForm .form-group.date-parameter-block {
+        width: 15%;
+    }
+}
+.for-homepage .bookingform-wrapper #booking-form .promo-block {
+    display:block !important;
+    width:125px !important;
+}
+.for-homepage .bookingform-wrapper #booking-form .date-parameter-block{
+    left:5px
+}
+
+#bookingForm .whyBookDirect{
+    bottom: -12px;
+    right: 77%;
+}
+
+@media screen and (max-width:1306px){
+    .bookingform-wrapper .abs_parent{
+        width: 100%;
+        max-width: unset;
+    }
+    .bookingform-wrapper .abs_parent #bookingForm .btn-wrapper{
+        right: 40px;
+        position: unset;
+    }
+    .bookingform-wrapper .abs_parent > #bookingForm{
+        display: flex;
+        justify-content: center;
+    }
+    .bookingform-wrapper .abs_parent > #bookingForm > #booking-form{
+        margin: 0;
+     }
+}
+@media screen and (max-width:1050px){
+    .bookingform-wrapper .abs_parent #bookingForm .form-group.select-block.select-location, .bookingform-wrapper .abs_parent #bookingForm .form-group.select-block.select-hotel{
+          width: 15%;    
+     }
+}
+@media screen and (max-width:1024px){
+    .bookingform-wrapper .abs_parent #bookingForm .btn-wrapper input{
+        min-width: 124px;
+    }
+}
+@media screen and (max-width: 813px){
+    .bookingform-wrapper .abs_parent #bookingForm .btn-wrapper input{
+        padding: 0;
+    }
+    .bookingform-wrapper .abs_parent #bookingForm .btn-wrapper{
+         right: 10px;
+    }
+}
+@media screen and (max-width: 800px){
+    .bookingform-wrapper .abs_parent #bookingForm .form-group.date-parameter-block , .for-homepage .bookingform-wrapper #booking-form .promo-block{
+        width: 120px !important;
+    }
+    .jssor-carousel-container #bookingForm .whyBookDirect{
+        width: 25%;
+        right: 71%;
+    }
+}
+@media screen and (max-width: 1060px){
+    #resv-form .modal-content #bookingForm .whyBookDirect{
+        width: 30%;
+        right: 66%;
+    }
+}
+
+#bookingForm .btn-wrapper .check-btn-holder .btn-full-width {
+    font-family: 'Raleway',serif;
+    background: #990000;
+    color: #fff;
+    font-weight: bold;
+    font-size: clamp(12px,1.172vw,18px);
+}
+
+.navbar .resv-wrap .resv{
+    text-transform:unset;
+}
+
+.outerpage  .no-gutter .widget-wrapper .custom_widgets_block #widget-discount_form_body{
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:100%;
+}
+.outerpage  .no-gutter .widget-wrapper .custom_widgets_block #widget-discount_form_body .discount_widget{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.outerpage  .no-gutter .widget-wrapper .custom_widgets_block #widget-discount_form_body .discount_widget .validate{
+    margin:0;
+}
+.outerpage  .no-gutter .widget-wrapper .custom_widgets_block #widget-discount_form_body .discount_widget .validate #mc_embed_signup_scroll h2{
+    text-align:left;
+}
+
+
+
+/*mobile css*/
+.mobile  .discount_widget#mc_embed_signup{
+    width:100%;
+    padding:0 0 20px 0;
+}
+.mobile  .discount_widget#mc_embed_signup .validate{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+
+
+/*.parent-hotel .navbar.navbar-top .container .lang-book-wrapper{*/
+/*    display:none;*/
+/*}*/
+.parent-hotel .bookingform-wrapper{
+    /*display:none;*/
+}
+/*.mobile.parent-hotel .fab_book_button{*/
+/*    display:none !important;*/
+/*}*/
+/*.mobile.parent-hotel .mobile-navbar-button.book-button.menu-item{*/
+/*    display:none;*/
+/*}*/
+
+#footer {
+    background-repeat: no-repeat;
+    background: url("https://res.cloudinary.com/simplotel/image/upload//q_80,x_0,y_169,w_1920,h_825,c_crop/w_1366,c_fill/q_80/the-boma-nairobi/nairobi-2730268_1920_tblare") rgb(160, 160, 160);
+    background-size: cover;
+}
+
+.custom-footer a{
+    text-decoration: none;
+    display: block;
+    height: 100%;
+}
+.custom-footer {
+    display: block;
+    height: 100%;
+}
+.topfooter{
+	display: block;
+	 padding:3.8% 4.2%;
+	}
+.midfooter{
+    margin-bottom: 22px;
+    text-align: center;
+}
+.custom-footer .topfooter .custom-hotel-info{
+    padding-top: 7px;
+	padding-right: 0;
+}
+.address span{
+    display: block;
+	line-height: 1.7;
+}
+.custom-footer .contact{
+    margin-top: 32px;
+    margin-left: -9px;
+}
+.custom-footer .contact ul{
+    margin-top: 32px;
+    margin-bottom: 10px;
+    padding: 0;
+    list-style: none;
+}
+.custom-footer .contact  li{
+    display: inline-block;
+	border-right: 1px solid #2c2c2c;
+	line-height: 1;
+	padding: 0 8px;
+}
+.custom-footer .contact li:last-child{
+    padding-right: 0;
+    border-right: 0;
+}
+.custom-footer .contact .ulcontact2{
+    display: block;
+	margin-top: 0;
+	margin-bottom: 10px;
+    padding: 0;
+}
+/*.social-links {*/
+/*    display: flex;*/
+/*    justify-content:flex-end;*/
+/*    margin-bottom: 16px;*/
+/*}*/
+.custom-footer .social-links {
+    display: flex;
+    position:absolute;
+    left:10px;
+    margin-top:10px;
+}
+.custom-footer .logos{
+    display: flex;
+    flex-direction:column;
+    padding-top: 10px;
+    display: none;
+}
+.custom-footer .logos .aleph{
+    margin: auto;
+    margin-right: 0;
+}
+/*.custom-footer .logos .rewards{*/
+/*    margin: auto;*/
+/*    margin-right: 0px;*/
+/*}*/
+.custom-footer .midtitle{
+	margin-right: 30px;
+	display: block;
+	margin-bottom: 20px;
+	vertical-align: middle;
+	margin: 0 0 10px;
+}
+
+.custom-footer .hotel-logos {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 15%;
+    margin-bottom: 15px;
+}
+.custom-footer .hotel-logos img {
+    margin: 0px 10px;
+    width: 75% !important;
+    object-fit: contain;
+}
+
+.custom-footer .logos .redcross {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    color: white;
+}
+
+.custom-footer .bottomfooterheading li{
+    margin-top: 0;
+	margin-bottom: 10px;
+	list-style: none;
+	display: inline-block;
+	border-right: 1px solid #2c2c2c;
+	line-height: 1;
+	padding: 0 8px;
+}
+.bottomfooterheading li:last-child{
+    border-right: 0;
+}
+.bottomfooterheading li:first-child{
+	padding-left: 0;
+}
+.custom-footer .bottomdesc{
+	margin-top: 35px;
+	margin-left: 64px;
+	position: relative;
+}
+.for-homepage .custom-footer .contact ul {
+    margin-bottom: 10px;
+    padding: 0 !important;
+    list-style: none;
+}
+.custom-footer .midtitle{
+    display:block;
+    text-align: center;
+}
+.custom-footer .bottomfooterheading{
+    display: block;
+    position: absolute;
+    margin-left: 23px;
+}
+.custom-footer .design{
+    margin-top: 30px;
+    text-align: right;
+}
+#footer .fb .fa-facebook-f{
+    height: 19px;
+    color: #595660;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+.custom-footer i:before {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 8px auto;
+    /* display: block; */
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.custom-footer .instagram .fa-instagram{
+    display: block;
+    height: 100%;
+    color: white;
+    position: relative;
+    position: relative;
+    background-color: #ffffff;
+    color: #595660;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+}
+.custom-footer .fa.fa-tripadvisor{
+    display: block;
+    height: 100%;
+    color: white;
+    position: relative;
+    position: relative;
+    background-color: #ffffff;
+    color: #595660;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+}
+.custom-footer .custom-newsletter .input-holder .user_email{
+	height:45px;
+	border: 1px solid #2c2c2c;
+	margin-top:20px;
+}
+.custom-footer .custom-newsletter .button-holder button{
+	width: 100%;
+	background-color: #fff;
+	display: block;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 2px 85px;
+	color: black;
+    border: 1px solid black;
+}
+footer#footer {
+    padding-bottom:0;
+}
+
+.custom-footer .news_letter_block .subscribe-widget .button-holder {
+    display: block;
+    position: relative;
+}
+.custom-footer .news_letter_block .subscribe-widget .form-group {
+    width: 100%;
+    display: block;
+    margin-right: 0px;
+}
+.custom-footer .visitHotelsContainer,
+.custom-footer .visitHotelsContainer2 {
+    /* width: 80%; */
+    margin: auto;
+
+    padding: 30px 0px;
+}
+.custom-footer .property1 a{
+    display:inline-block;
+    height:auto!important;
+}
+.custom-footer .property1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.custom-footer .property1 img{
+    height:100%;
+    filter: brightness(0) invert(1);
+    width: 163px!important;
+    height: auto!important;
+    margin-right:20px;
+    margin-left:20px;
+}
+.custom-footer .property1 #addis,
+.custom-footer .property1 #omak,
+.custom-footer .custom-footer .property1 #mojatu,
+.property1 #upcoming{
+    width: 120px;
+}
+.custom-footer .midfooter{
+    border-top: 1px solid rgba(131,129,124,0.2);
+    border-bottom: 1px solid rgba(131,129,124,0.2);
+}
+.custom-footer .bottomfooter{
+    padding: 24px 30px;
+    padding-top:10px;
+}
+.custom-footer .topfooter .rewards img {
+    max-height:150px; 
+    margin-top: -15px;
+    margin-bottom:-20px;
+}
+.custom-footer .topfooter .aleph img {
+    max-height:110px;
+    margin-top:10px;
+    margin-bottom:10px;
+    max-width: 160px;
+    padding-top: 20px; 
+    padding-bottom:20px;
+}
+.custom-footer .contact ul.ulcontact li{
+    border-right:none;
+    display: block;
+    margin-top: 15px;
+}
+.custom-footer .custom-footer-link{
+    display:inline-block;
+}
+.custom-footer .twitter_link i {
+    display: block;
+    height: 100%;
+    color: white;
+    position: relative;
+    background-color: #ffffff;
+    color: #595660;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+}
+
+.custom-footer .aleph a, .custom-footer .rewards a {
+    text-align: right;
+}
+.news_letter_block .text-success {
+    color: white;
+}
+#footer .social-links i:hover {
+    color: #ffffff!important;
+    background-color: #095c73!important;
+}
+#footer .visitHotelsContainer2 .upcoming1{
+    width:150px !important;
+}
+#footer .visitHotelsContainer2 .property1{
+    /*display:block;*/
+    color: white;
+}
+.custom-footer .visitHotelsContainer2 .property1 div{
+    padding-top: 5px;
+}
+.custom-footer .other-script-wrap{
+    min-height:0;
+}
+.custom-footer .property1 #omak{
+    width: 124px!important;
+}
+
+.custom-footer .property1 a:first-child #omak{
+    width: 235px!important;
+    height: 100%!important;
+}
+.custom-footer .visitHotelsContainer2{
+    border-bottom: 1px solid rgba(131,129,124,0.2);
+    padding-top:0;
+}
+.custom-footer .visitHotelsContainer2 .property1 .upcoming-hotel2{
+    padding-left:60px;
+    padding-right:60px;
+}
+.custom-footer .property1 #century {
+    width: 100px !important;
+}
+.custom-footer .property1 #alure {
+    width: 120px !important;
+}
+
+/*Remove Alure and Masheda Palms */
+#footer .visitHotelsContainer.col-xs-12.col-md-12 .property1 a:nth-child(4),
+#footer .visitHotelsContainer.col-xs-12.col-md-12 .property1 a:nth-child(5){
+        display:none; 
+}
+
+
+header .header-discount.top-strip{
+  padding: 2px 0;
+  background: rgba(51,51,51,.9);
+  width:100%;
+  display: flex;
+  justify-content:center;
+  /* padding-right: 16.5%; */
+}
+header .header-discount.top-strip a{
+  color: #fff;
+}
+
+
+
+.parent-hotel #footer .logos.col-xs-4 .rewards a {
+    display:none
+}
+
+ .mobile.content.parent-hotel #footer .logos.col-xs-12 .rewards a {
+    display:none
+}
+
+.child-hotel #footer .aleph-properties .logos.col-xs-4 .rewards {
+    display:none;
+}
+
+.simp-custom-activities .text-content-wrapper {
+    background: #f2f2f2;
+    margin: 0px 40px;
+    padding: 6%;
+    margin-top: -50px;
+    z-index: 1;
+    position: relative;
+    height: 620px;
+}
+.simp-custom-activities h3{
+    font-size: 24px;
+    font-family: Classico-URW,sans-serif;
+    font-weight: 400;
+}
+
+
+.simp-custom-roomSlider .slick-slide{
+    padding:20px !important;
+}
+.simp-custom-roomSlider ul.slick-dots {
+    display: none!important;
+}
+.simp-custom-roomSlider .slick-slider .text-content-wrapper,
+.simp-custom-roomSlider .slick-slider .text-content-wrapper h2{
+    color:white;
+}
+.simp-custom-roomSlider button.slick-prev.slick-arrow{
+    position: absolute;
+    top: 100%;
+    left: 47%;
+ }
+.simp-custom-roomSlider button.slick-next.slick-arrow {
+    position: absolute;
+    top: 100%;
+    right: 47%!important;
+}
+.simp-custom-roomSlider button.slick-next.slick-arrow:before{
+    content:"\f105";
+    border:1px solid grey;
+    padding:5px;
+     padding-right:10px;
+    padding-left:10px;
+}
+.simp-custom-roomSlider button.slick-prev.slick-arrow:before{
+    content:"\f104";
+    border:1px solid grey;
+    padding:5px;
+    padding-right:10px;
+    padding-left:10px;
+}
+.simp-custom-roomSlider .slick-slider .text-content-wrapper, .simp-custom-roomSlider .slick-slider .text-content-wrapper{
+    background-color: rgb(29 39 38 / 35%) !important;
+    color: #fff !important;
+    align-items: center;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    width: calc(100% - 40px);
+  
+}
+
+.simp-custom-lefttext,
+.simp-custom-righttext{
+    width: 30% !important;
+    margin: 0!important;
+}
+.simp-custom-lefttext .text-content-wrapper,
+.simp-custom-righttext .text-content-wrapper{
+    width:100%;
+    /*padding-left: 25px;*/
+}
+
+.simp-custom-lefttext .text-content {
+    margin-left:35px !important;
+    margin-top: 50px;
+    height: 80%;
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index:1;
+}
+.simp-custom-righttext .text-content {
+    margin-left: -35px;
+    margin-top: 50px;
+    height: 80%;
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.simp-custom-img  .camera_caption{
+    max-width:100% !important;
+}
+.simp-custom-img .jssor-carousel-wrapper .camera_caption .caption-as-text{
+    float:right !important;
+}
+.simp-custom-img .jssor-carousel-wrapper {
+    padding: 0;
+    width: 100%!important;
+    max-width: 100%!important;
+}
+.simp-custom-img .jssor-carousel {
+    width: 100%!important;
+    max-width: 100%!important;
+}
+.for-homepage .content_wrapper .simp-custom-img {
+    width: 70% !important;
+}
+.simp-custom-img div.jssor-carousel div > .jssora051.arrowleft-jssor {
+    top: 214px!important;
+    left: 105px!important;
+    transform: translate(188px);
+}
+.simp-custom-img div.jssor-carousel div > .jssora051.arrowright-jssor {
+    top: 214px!important;
+    left: -105px!important;
+    transform: translate(-188px);
+}
+div[data-widget-id="2184091"].simp-custom-img .jssor-carousel-wrapper .camera_caption .caption-as-text{
+    float:left !important;
+}
+.simp-custom-txtoimg .left-box
+{
+   width:100%;
+}
+.simp-custom-txtoimg .right-box
+{
+   position:absolute;
+   margin-top:80px;
+   background-color:#f2f2f2;
+   width:20%;
+   color:#000000;
+   padding:30px ;
+   right:140px !important;
+}
+.simp-custom-txtoimg
+{
+   width:60% !important;
+}
+.simp-custom-table-border table,
+.simp-custom-table-border td{
+    border:none !important;
+}
+.simp-custom-widget-hide {
+    display: none!important;
+}
+.simp-custom-center
+{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.simp-custom-sheen-text {
+ display: flex;
+ justify-content: center;
+ padding-top: 14px !important;
+ padding-bottom: 14px !important;
+}
+
+.simp-custom-sheen-text .text-content {
+ padding: 0;
+ margin: 0 15px;
+}
+
+.simp-custom-sheen-text .text-content-wrapper {
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    padding: 20px;
+    background: rgb(29 39 38 / 35%);
+}
+
+.simp-custom-sheen-text .text-content-wrapper h3:hover a {
+ color: white;
+}
+
+.simp-custom-img:nth-child(2n+1) .jssor-carousel-wrapper .jssor-carousel .carousel-caption-wrapper .jssor-caption {
+    left: 0;
+    right: auto;
+}
+
+.mobile #footer {
+    background-repeat: no-repeat;
+    background: url("https://res.cloudinary.com/simplotel/image/upload//q_80,x_0,y_169,w_1920,h_825,c_crop/w_1366,c_fill/q_80/the-boma-nairobi/nairobi-2730268_1920_tblare") rgb(160, 160, 160);
+    background-size: cover;
+}
+
+.mobile #footer .logos .rewards img{
+    width:25%;
+}
+.mobile #footer .logos .rewards {
+    display: grid;
+}
+.mobile #footer .logos .hotels ul{
+    padding:0
+}
+.mobile #footer .logos .hotels li {
+    list-style-type:none; 
+}
+.mobile #footer .logos .redcross img{
+    width:25%
+}
+.mobile #footer .logos .redcross {
+    display: grid;
+}
+.mobile #footer .logos {
+    border-bottom: 1px dashed white;
+    padding-bottom:15px;
+    padding-top:15px;
+    display: none;
+}
+
+.simp-custom-hideRightBox .right-box{
+    display:none;
+}
+.simp-custom-hideLeftBox .left-box{
+    display:none;
+}
+.simp-custom-center{
+    display:flex;
+    justify-content:center;
+}
+
+.child-hotel .outer-page #top-menu ul.nav.navbar-nav> li{
+    display:none;
+}
+.mobile.child-hotel .select-hotel-wrapper{
+    display:none;
+}
+
+header .navbar-top .navbar-nav>li .dropdown-menu.our-hotel-menu .mega-menu>li .dropdown-header {
+    padding-bottom:15px;
+}
+header .navbar-top .navbar-nav>li .dropdown-menu.our-hotel-menu .mega-menu>li .dropdown-header h4 {
+    font-weight:bold;
+    text-decoration:underline;
+    font-size:18px;
+}
+.mobile .select-hotel-wrapper .dropdown-menu .dropdown-menu-wrapper .each-hotel-wrapper .hotel-group-name {
+    font-weight:bold;
+    text-decoration:underline;
+    font-size:17px;
+}
+
+
+
+
+
+/*.mobile div[data-widget-id="2184055"] p{*/
+/*    background-color: #a5acc6c9 !important;*/
+/*    color: #fff !important;*/
+/*    height: 100px;*/
+/*    align-items: center;*/
+/*    position: absolute;*/
+/*    bottom: 50px;*/
+/*}*/
+/*.mobile div[data-widget-id="2184055"] button.slick-prev.slick-arrow{*/
+/*    position: absolute;*/
+/*    top: 100%;*/
+/*    left: 40%;*/
+/* }*/
+/*.mobile div[data-widget-id="2184055"] button.slick-next.slick-arrow {*/
+/*    position: absolute;*/
+/*    top: 100%;*/
+/*    right: 40%!important;*/
+/*}*/
+/*.mobile div[data-widget-id="2184055"] button.slick-next.slick-arrow:before{*/
+/*    content:"\f105";*/
+/*    border:1px solid grey;*/
+/*    padding:5px;*/
+/*    padding-right:10px;*/
+/*    padding-left:10px;*/
+/*}*/
+/*.mobile div[data-widget-id="2184055"] button.slick-prev.slick-arrow:before{*/
+/*    content:"\f104";*/
+/*    border:1px solid grey;*/
+/*    padding:5px;*/
+/*    padding-right:10px;*/
+/*    padding-left:10px;*/
+/*}*/
+/*.wt1imgtop-1tbbot[data-widget-id="2184055"] .slick-slide{*/
+/*    padding:20px !important;*/
+/*}*/
+/*.wt1imgtop-1tbbot[data-widget-id="2184055"] ul.slick-dots {*/
+/*    display: none!important;*/
+/*}*/
+/*div[data-widget-id="2184055"] .slick-slider .text-content-wrapper,*/
+/*div[data-widget-id="2184055"] .slick-slider .text-content-wrapper h2{*/
+/*    color:white;*/
+/*}*/
+/*.wt1imgtop-1tbbot[data-widget-id="2184055"] button.slick-prev.slick-arrow{*/
+/*    position: absolute;*/
+/*    top: 100%;*/
+/*    left: 47%;*/
+/* }*/
+/*.wt1imgtop-1tbbot[data-widget-id="2184055"] button.slick-next.slick-arrow {*/
+/*    position: absolute;*/
+/*    top: 100%;*/
+/*    right: 47%!important;*/
+/*}*/
+/*.wt1imgtop-1tbbot[data-widget-id="2184055"] button.slick-next.slick-arrow:before{*/
+/*    content:"\f105";*/
+/*    border:1px solid grey;*/
+/*    padding:5px;*/
+/*     padding-right:10px;*/
+/*    padding-left:10px;*/
+/*}*/
+/*.wt1imgtop-1tbbot[data-widget-id="2184055"] button.slick-prev.slick-arrow:before{*/
+/*    content:"\f104";*/
+/*    border:1px solid grey;*/
+/*    padding:5px;*/
+/*    padding-right:10px;*/
+/*    padding-left:10px;*/
+/*}*/
+/*div[data-widget-id="2184055"] .slick-slider .text-content-wrapper, div[data-widget-id="2184055"] .slick-slider .text-content-wrapper{*/
+/*    background-color: rgb(29 39 38 / 35%) !important;*/
+/*    color: #fff !important;*/
+/*    align-items: center;*/
+/*    position: absolute;*/
+/*    bottom: 20px;*/
+/*    left: 20px;*/
+/*    width: calc(100% - 40px);*/
+/*}*/
+
+/*.simp-custom-slider .slick-slide{*/
+/*    padding:20px !important;*/
+/*}*/
+/*.simp-custom-slider ul.slick-dots {*/
+/*    display: none!important;*/
+/*}*/
+/*.simp-custom-slider .jssor-generic-carousel {*/
+/*    max-width: 100% !important;*/
+/*    width: 100% !important;*/
+/*}*/
+
+/*div[data-widget-id="2184055"] {*/
+/*    padding-top: 14px!important;*/
+/*}*/
+/*.widget-wrapper.wt1tb[data-widget-id="2184055"] {*/
+/*    padding-bottom: 0px!important;*/
+/*}*/
+/*.wt1imgtop-1tbbot[data-widget-id="2184055"] .text-content-wrapper {*/
+    /*position: absolute;*/
+    /*bottom:40px;*/
+/*    left:60px*/
+/*}*/
+/*.wt1imgtop-1tbbot[data-widget-id="2184055"] .slick-slide{*/
+/*    padding:20px !important;*/
+/*}*/
+/*.wt1imgtop-1tbbot[data-widget-id="2184055"] ul.slick-dots {*/
+/*    display: none!important;*/
+/*}*/
+/*div[data-widget-id="2184055"] .slick-slider .text-content-wrapper,*/
+/*div[data-widget-id="2184055"] .slick-slider .text-content-wrapper h2{*/
+/*    color:#272727;*/
+/*}*/
+/*.wt1imgtop-1tbbot[data-widget-id="2184055"] button.slick-prev.slick-arrow{*/
+/*    position: absolute;*/
+/*    top: 100%;*/
+/*    left: 47%;*/
+/* }*/
+/*.wt1imgtop-1tbbot[data-widget-id="2184055"] button.slick-next.slick-arrow {*/
+/*    position: absolute;*/
+/*    top: 100%;*/
+/*    right: 47%!important;*/
+/*}*/
+/*.wt1imgtop-1tbbot[data-widget-id="2184055"] button.slick-next.slick-arrow:before{*/
+/*    content: " \f105" !important;*/
+/*    font-family: 'Font Awesome 5 Pro';*/
+/*    border: 1px solid grey;*/
+/*    padding: 5px;*/
+/*    padding-right: 10px;*/
+/*    padding-left: 10px;*/
+/*    font-weight: bold;*/
+/*    color: #c39c3c;*/
+/*    font-size: 25px;*/
+/*}*/
+/*.wt1imgtop-1tbbot[data-widget-id="2184055"] button.slick-prev.slick-arrow:before{*/
+/*    content: " \f104" !important;*/
+/*    font-family: 'Font Awesome 5 Pro';*/
+/*    border: 1px solid grey;*/
+/*    padding: 5px;*/
+/*    padding-right: 10px;*/
+/*    padding-left: 10px;*/
+/*    font-weight: bold;*/
+/*    color: #c39c3c;*/
+/*    font-size: 25px;*/
+/*}*/
+/*div[data-widget-id="2184055"] .text-content-wrapper a.internal-link{*/
+/*    color:white !important;*/
+/*}*/
+
+
+.simp-custom-slider .slick-slide {
+    position: relative;
+    margin: 20px !important;
+}
+
+.simp-custom-slider {
+    padding-top: 10px!important;
+}
+
+.simp-custom-slider .text-content-wrapper {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(29 39 38 / 35%);
+}
+
+.simp-custom-slider .slick-prev.slick-arrow{
+    position: absolute;
+    top: 100%;
+    left: 47%;
+}
+
+.simp-custom-slider .slick-next.slick-arrow {
+    position: absolute;
+    top: 100%;
+    right: 47%!important;
+}
+@media (max-width: 1100px) {
+    .simp-custom-slider .slick-prev.slick-arrow{
+        left: 45%;
+     }
+    .simp-custom-slider .slick-next.slick-arrow {
+        right: 45%!important;
+    }
+}
+.simp-custom-slider .slick-next.slick-arrow:before{
+    content: " \f105" !important;
+    font-family: 'Font Awesome 5 Pro';
+    border: 1px solid grey;
+    padding: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+.simp-custom-slider .slick-prev.slick-arrow:before{
+    content: " \f104" !important;
+    font-family: 'Font Awesome 5 Pro';
+    border: 1px solid grey;
+    padding: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+.simp-custom-slider .text-content-wrapper a.internal-link,
+.simp-custom-slider .text-content-wrapper a.internal-link span {
+    color:white !important;
+}
+
+
+
+
+

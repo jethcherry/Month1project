@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="style.css">
+    <title>Tour Booking System</title>
+</head>
+<body>
+<header class="header">
+    <div id="logo"><p>The Bomas Booking System</p></div>
+    <nav class="navbar">
+        <div class="nav-links">
+            <a href="#home">Home</a>
+            <a href="#booking">Book Now</a>
+            <a href="#hotels">Hotels</a>
+            <a href="#tour">Tours</a>
+            <a href="#contact">Contact Us</a>
+        </div>
+    </nav>
+    
+</header>
+
+
+
+<div class="booking-system">
+    <div class="home" id="home">
+        <div class="slider">
+            <img class="slide" src="/images/Homepage2_c298zj.avif" alt="Slide 1">
+            <img class="slide" src="/images/Hompage3_yc68b2.avif" alt="Slide 2">
+            <img class="slide" src="/images/Homepage4_znzzqp.avif" alt="Slide 3">
+            <img class="slide" src="/images/Homepage5_lydwr4.avif" alt="Slide 4">
+        </div>
+        <p>Welcome to our booking system.<br>Book your stay with us now!</p>
+    </div>
+    
+    
+    <div class="booking" id="booking">
+        <p>Choose your booking type:</p>
+        <input type="radio" id="book-hotel" name="booking-type" value="hotel" checked>
+        <label for="book-hotel">Book a Hotel:</label>
+        <input type="radio" id="book-tour" name="booking-type" value="tour">
+        <label for="book-tour">Book a Tour:</label>
+        
+        <form action="#">
+            <div class="form-item">
+                <label for="hotel-name">Hotel Name:</label>
+                <input type="text" id="hotel-name" name="hotel-name">
+            </div>
+            <div class="form-item">
+                <label for="tour-name">Tour Name:</label>
+                <input type="text" id="tour-name" name="tour-name">
+            </div>
+            <div class="form-item">
+                <label for="check-in">Check-In Date:</label>
+                <input type="date" id="check-in" name="check-in">
+            </div>
+            <div class="form-item">
+                <label for="check-out">Check-Out Date:</label>
+                <input type="date" id="check-out" name="check-out">
+            </div>
+            <div class="form-item">
+                <label for="room-type">Room Type:</label>
+                <select id="room-type" name="room-type">
+                    <option value="standard">Standard</option>
+                    <option value="deluxe">Deluxe</option>
+                    <option value="suite">Suite</option>
+                </select>
+            </div>
+            <div class="form-item">
+                <label for="guests">Number of Guests:</label>
+                <input type="number" id="guests" name="guests" min="1">
+            </div>
+            <input type="submit" value="Book Now">
+        </form>
+    </div>
+    
+    <div class="hotels" id="hotels">
+        <p>Explore our selection of hotels, their locations, and prices.</p>
+        <div class="hotels-list">
+            <div class="hotel-item">
+                <img src="/images/Homepage4_znzzqp.avif" alt="Hotel A">
+                <h3>Takimu Restaurants</h3>
+                <p>Location: New York City, NY</p>
+                <p>Price: $200 per night</p>
+                <button class="book-now-button">Book Now</button>
+            </div>
+            <div class="hotel-item">
+                <img src="/images/Exterior_facade_-_The_Boma,_hotel_in_Nairobi_2.avif" alt="Hotel B">
+                <h3>Trap House</h3>
+                <p>Location: Los Angeles, CA</p>
+                <p>Price: $180 per night</p>
+                <button class="book-now-button">Book Now</button>
+            </div>
+            <div class="hotel-item">
+                <img src="/images/Homepage4_znzzqp.avif" alt="Hotel C">
+                <h3>Prides Adventures</h3>
+                <p>Location: Miami, FL</p>
+                <p>Price: $150 per night</p>
+                <button class="book-now-button">Book Now</button>
+            </div>
+            <div class="hotel-item">
+                <img src="/images/Homepage5_lydwr4 (1).avif" alt="Hotel D">
+                <h3>Golden Gates</h3>
+                <p>Location: Chicago, IL</p>
+                <p>Price: $170 per night</p>
+                <button class="book-now-button">Book Now</button>
+            </div>
+            <div class="hotel-item">
+                <img src="/images/Homepage6_rbhh6a (1).avif" alt="Hotel E">
+                <h3>Taamal</h3>
+                <p>Location: Houston, TX</p>
+                <p>Price: $160 per night</p>
+                <button class="book-now-button">Book Now</button>
+            </div>
+            <div class="hotel-item">
+                <img src="/images/Hompage3_yc68b2.avif" alt="Hotel F">
+                <h3>The Bomas</h3>
+                <p>Location: San Francisco, CA</p>
+                <p>Price: $210 per night</p>
+                <button class="book-now-button">Book Now</button>
+            </div>
+            <div class="hotel-item">
+                <img src="/images/5.avif" alt="Hotel G">
+                <h3>Greens</h3>
+                <p>Location: Las Vegas, NV</p>
+                <p>Price: $190 per night</p>
+                <button class="book-now-button">Book Now</button>
+            </div>
+            <div class="hotel-item">
+                <img src="/images/2.avif" alt="Hotel H">
+                <h3>VIP</h3>
+                <p>Location: Orlando, FL</p>
+                <p>Price: $140 per night</p>
+                <button class="book-now-button">Book Now</button>
+            </div>
+        </div>
+    </div>
+    
+    
+
+</div>
+
+<div class="tours" id="tours">
+    <p>Explore our latest tours covering various destinations and experiences.</p>
+    <div class="tour-list">
+        <div class="tour">
+            <img src="/images/1.jpeg" alt="Tour 1">
+            <h3>Adventure Trek in the Himalayas</h3>
+            <p>Embark on an unforgettable trekking journey through the majestic Himalayan mountains.</p>
+            <button>Book Now</button>
+        </div>
+        <div class="tour" id="tour">
+            <img src="/images/2.jpeg" alt="Tour 2">
+            <h3>Safari Adventure in Serengeti</h3>
+            <p>Experience the thrill of wildlife safari in the vast plains of Serengeti National Park.</p>
+            <button>Book now</button>
+        </div>
+        <div class="tour">
+            <img src="/images/3.jpeg" alt="Tour 3">
+            <h3>Island Hopping in Greece</h3>
+            <p>Discover the beauty of Greek islands with our island hopping tour package.</p>
+            <button>Book Now</button>
+        </div>
+        <div class="tour">
+            <img src="/images/4.jpeg" alt="Tour 4">
+            <h3>Cultural Tour in Japan</h3>
+            <p>Explore the rich cultural heritage of Japan with our guided tour.</p>
+            <button>Book Now</button>
+        </div>
+        <div class="tour">
+            <img src="/images/5.jpeg" alt="Tour 5">
+            <h3>Road Trip Across Route 66</h3>
+            <p>Experience the iconic American road trip along Route 66, from Chicago to Los Angeles.</p>
+            <button>Book Now</button>
+        </div>
+        <div class="tour">
+            <img src="/images/6.jpeg" alt="Tour 6">
+            <h3>Wildlife Photography Safari in Africa</h3>
+            <p>Capture stunning wildlife moments on a photography safari in Africa's renowned national parks.</p>
+            <button>Book Now</button>
+        </div>
+    </div>
+</div>
+
+  
+</div>
+
+<div class="contact" id="contact">
+   
+    <p>Contact us for inquiries, feedback, or assistance.</p>
+    <form action="#" method="POST">
+        <label for="name">Your Name:</label><br>
+        <input type="text" id="name" name="name" required><br>
+        <label for="email">Your Email:</label><br>
+        <input type="email" id="email" name="email" required><br>
+        <label for="message">Your Message:</label><br>
+        <textarea id="message" name="message" rows="4" required></textarea><br>
+        <input type="submit" value="Send Message">
+    </form>
+</div>
+
+</div>
+
+<script src="user.js"></script>
+</body>
+</html>

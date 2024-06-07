@@ -1,0 +1,148 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(163, 119, 126);
+}
+
+.container {
+    margin: 100px;
+    max-width: 1000px;
+    align-items: center;
+}
+
+.header1 h1 {
+    color: white;
+}
+
+.header {
+    margin-top: 50px;
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links {
+    display: flex;
+    gap: 50px;
+    margin-left: 300px;
+}
+
+.nav-links ul a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.nav-links ul a:hover {
+    color: green;
+}
+
+#users,
+#tour,
+#hotel,
+#booking {
+    margin-top: 40px;
+    padding: 20px;
+    margin: 40px;
+    background-color: white;
+    width: 900px;
+}
+
+#users h2,
+#tour h2,
+#hotel h2,
+#booking h2 {
+    margin: 20px;
+    margin-left: 100px;
+}
+
+#form,
+#tour-form,
+#hotel-form,
+#booking-form {
+    background-color: aliceblue;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#form input,
+#tour-form input,
+#hotel-form input,
+#booking-form input {
+    padding: 20px;
+    margin: 5px;
+    height: 30px;
+    width: 80%;
+    border-radius: 15px;
+    border-color: green;
+}
+
+#tour-form textarea {
+    padding: 20px;
+    height: 50px;
+    border-radius: 15px;
+    border-color: green;
+    width: 80%;
+}
+
+#form button,
+#tour-form button,
+#hotel-form button,
+#booking-form button {
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: rgb(163, 119, 126);
+    border: none;
+    margin: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#user-list,
+#tour-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#user-list li,
+#tour-list li {
+    background-color: red;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    width: 80%; 
+    margin: 0 auto; 
+}
+.delete-btn,
+.update-btn {
+    padding: 8px 12px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.delete-btn {
+    background-color: #FF5733;
+    color: white;
+}
+
+.update-btn {
+    background-color: #3498DB; 
+    color: white;
+}
+
+.delete-btn:hover,
+.update-btn:hover {
+    background-color: darken(#FF5733, 10%); 
+}
+
